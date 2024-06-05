@@ -1,0 +1,250 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h1 {
+    font-size: 22px;
+    font-family: "Roboto", sans-serif;
+}
+
+.header {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.mobileMenu {
+    background-color: #001529;
+    height: 60px;
+    padding-top: 4px;
+}
+
+.mobileIcon {
+    color: white;
+    font-size: 30px;
+}
+.mainMenu {
+    flex-grow: 1;
+}
+
+.total-price {
+    color: white;
+}
+
+.mainLayout{
+    min-height: 100vh;
+    background: #f8f8f8;
+    padding: 0;
+    height: auto;
+    line-height: 1.6;
+}
+
+.cars {
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 15px;
+}
+
+.favorite-icon {
+    color: lightgray;
+}
+
+.favorite-icon-active {
+    color: red;
+}
+
+.wrapper {
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 15px;
+}
+
+.ant-drawer-body {
+    background-color: #001529;
+}
+
+.spin-wrapper {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
+
+.desc-text {
+    font-weight: bold;
+    text-wrap: nowrap;
+}
+
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 6px;
+    align-items: center;
+}
+
+.ant-card-body {
+    display: flex;
+}
+
+.card-image {
+    height: 300px;
+    object-fit: cover;
+}
+
+.info-container {
+    display: flex;
+    margin: 12px 0 12px 0;
+    flex-grow: 1;
+    flex-wrap: wrap;
+}
+.info {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    justify-content: center;
+    flex-grow: 1;
+}
+
+.info-title {
+    margin-bottom: 16px;
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+}
+
+.info-image {
+    object-fit: cover;
+}
+
+.favorite {
+    display: flex;
+    flex-grow: 1;
+    align-self: center;
+    flex-flow: row-reverse;
+}
+
+.favorite > span {
+    font-size: 26px;
+}
+
+.detailed-favorite {
+    display: flex;
+    padding-right: 14px;
+}
+
+.detailed-favorite > span {
+    font-size: 40px;
+}
+
+.error-wrapper {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.footer {
+    text-align: center;
+    background-color: #23272F;
+    color: white;
+}
+
+.pagination-container {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    padding: 20px;
+
+    .pagination-item {
+        padding: 0 12px;
+        height: 32px;
+        text-align: center;
+        margin: auto 4px;
+        color: black;
+        display: flex;
+        box-sizing: border-box;
+        align-items: center;
+        border-radius: 16px;
+        font-size: 14px;
+        min-width: 32px;
+
+        &.dots:hover {
+            background-color: transparent;
+            cursor: default;
+        }
+        &:hover {
+            background-color: rgba(0, 0, 0, 0.04);
+            cursor: pointer;
+        }
+
+        &.selected {
+            background-color: rgba(0, 0, 0, 0.08);
+        }
+
+        .arrow {
+            &::before {
+                position: relative;
+                content: '';
+                /* By using an em scale, the arrows will size with the font */
+                display: inline-block;
+                width: 0.4em;
+                height: 0.4em;
+                border-right: 0.12em solid rgba(0, 0, 0, 0.87);
+                border-top: 0.12em solid rgba(0, 0, 0, 0.87);
+            }
+
+            &.left {
+                transform: rotate(-135deg) translate(-50%);
+            }
+
+            &.right {
+                transform: rotate(45deg);
+            }
+        }
+
+        &.disabled {
+            pointer-events: none;
+
+            .arrow::before {
+                border-right: 0.12em solid rgba(0, 0, 0, 0.43);
+                border-top: 0.12em solid rgba(0, 0, 0, 0.43);
+            }
+
+            &:hover {
+                background-color: transparent;
+                cursor: default;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 660px) {
+    .info-container {
+        flex-direction: column-reverse;
+        justify-content: center;
+    }
+
+    .info-content {
+        text-align: center;
+    }
+
+    .info-title {
+        margin-bottom: 0;
+    }
+
+    .mainMenu {
+        display: none;
+    }
+}
+@media only screen and (min-width: 660px) {
+    .mobileMenu {
+        display: none;
+    }
+}

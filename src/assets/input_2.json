@@ -1,0 +1,1902 @@
+[
+  {
+    "id": 1,
+    "name": "Lancer Evolution",
+    "brand": "Mitsubishi",
+    "description": "Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.",
+    "specification": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "rating": {
+      "rating": 4,
+      "reviewsCount": 3
+    },
+    "price": {
+      "price": 8000.93,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/464x442.png/ff4444/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Accent",
+    "brand": "Hyundai",
+    "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",
+    "specification": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+    "rating": {
+      "rating": 3,
+      "reviewsCount": 0
+    },
+    "price": {
+      "price": 544874.94,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/423x400.png/5fa2dd/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Colorado",
+    "brand": "Chevrolet",
+    "description": "Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis.",
+    "specification": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+    "rating": {
+      "rating": 2,
+      "reviewsCount": 9
+    },
+    "price": {
+      "price": 330001.4,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/433x471.png/ff4444/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Avenger",
+    "brand": "Dodge",
+    "description": "Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus.",
+    "specification": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+    "rating": {
+      "rating": 3,
+      "reviewsCount": 9
+    },
+    "price": {
+      "price": 87463.79,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/420x367.png/cc0000/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Intrigue",
+    "brand": "Oldsmobile",
+    "description": "Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.",
+    "specification": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+    "rating": {
+      "rating": 3,
+      "reviewsCount": 22
+    },
+    "price": {
+      "price": 85001.18,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/348x465.png/ff4444/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 6,
+    "name": "LS",
+    "brand": "Lexus",
+    "description": "Maecenas pulvinar lobortis est. Phasellus sit amet erat.",
+    "specification": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
+    "rating": {
+      "rating": 5,
+      "reviewsCount": 9
+    },
+    "price": {
+      "price": 929489.1,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/404x327.png/cc0000/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 7,
+    "name": "V40",
+    "brand": "Volvo",
+    "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue.",
+    "specification": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
+    "rating": {
+      "rating": 5,
+      "reviewsCount": 3
+    },
+    "price": {
+      "price": 593157.04,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/405x328.png/cc0000/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 8,
+    "name": "TT",
+    "brand": "Audi",
+    "description": "In quis justo. Maecenas rhoncus aliquam lacus.",
+    "specification": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
+    "rating": {
+      "rating": 1,
+      "reviewsCount": 24
+    },
+    "price": {
+      "price": 566634.01,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/316x498.png/dddddd/000000",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 9,
+    "name": "MKS",
+    "brand": "Lincoln",
+    "description": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+    "specification": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
+    "rating": {
+      "rating": 3,
+      "reviewsCount": 25
+    },
+    "price": {
+      "price": 499248.12,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/403x438.png/dddddd/000000",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Topaz",
+    "brand": "Mercury",
+    "description": "Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.",
+    "specification": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+    "rating": {
+      "rating": 2,
+      "reviewsCount": 19
+    },
+    "price": {
+      "price": 97054.69,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/417x320.png/5fa2dd/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Truck",
+    "brand": "Mitsubishi",
+    "description": "Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+    "specification": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+    "rating": {
+      "rating": 2,
+      "reviewsCount": 11
+    },
+    "price": {
+      "price": 553760.73,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/471x471.png/5fa2dd/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 12,
+    "name": "9-3",
+    "brand": "Saab",
+    "description": "Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh.",
+    "specification": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
+    "rating": {
+      "rating": 1,
+      "reviewsCount": 17
+    },
+    "price": {
+      "price": 137339.43,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/383x412.png/5fa2dd/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Sunfire",
+    "brand": "Pontiac",
+    "description": "Cras in purus eu magna vulputate luctus.",
+    "specification": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+    "rating": {
+      "rating": 4,
+      "reviewsCount": 8
+    },
+    "price": {
+      "price": 514327.61,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/323x464.png/dddddd/000000",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 14,
+    "name": "F150",
+    "brand": "Ford",
+    "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
+    "specification": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+    "rating": {
+      "rating": 5,
+      "reviewsCount": 11
+    },
+    "price": {
+      "price": 254377.74,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/408x416.png/ff4444/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Ram Wagon B350",
+    "brand": "Dodge",
+    "description": "Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum.",
+    "specification": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+    "rating": {
+      "rating": 3,
+      "reviewsCount": 1
+    },
+    "price": {
+      "price": 677424.99,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/320x363.png/cc0000/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Gallardo",
+    "brand": "Lamborghini",
+    "description": "Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
+    "specification": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+    "rating": {
+      "rating": 3,
+      "reviewsCount": 5
+    },
+    "price": {
+      "price": 15102.61,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/411x403.png/5fa2dd/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Taurus",
+    "brand": "Ford",
+    "description": "Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+    "specification": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+    "rating": {
+      "rating": 5,
+      "reviewsCount": 3
+    },
+    "price": {
+      "price": 630427.98,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/397x486.png/dddddd/000000",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Mountaineer",
+    "brand": "Mercury",
+    "description": "Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.",
+    "specification": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+    "rating": {
+      "rating": 1,
+      "reviewsCount": 2
+    },
+    "price": {
+      "price": 413065.41,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/329x475.png/dddddd/000000",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Grand Cherokee",
+    "brand": "Jeep",
+    "description": "Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum.",
+    "specification": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+    "rating": {
+      "rating": 2,
+      "reviewsCount": 21
+    },
+    "price": {
+      "price": 969522.3,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/308x307.png/dddddd/000000",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Corvair 500",
+    "brand": "Chevrolet",
+    "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",
+    "specification": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
+    "rating": {
+      "rating": 4,
+      "reviewsCount": 24
+    },
+    "price": {
+      "price": 280691.98,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/475x323.png/dddddd/000000",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Impreza WRX",
+    "brand": "Subaru",
+    "description": "In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh.",
+    "specification": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+    "rating": {
+      "rating": 3,
+      "reviewsCount": 0
+    },
+    "price": {
+      "price": 7663.59,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/318x396.png/dddddd/000000",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Charger",
+    "brand": "Dodge",
+    "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla.",
+    "specification": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+    "rating": {
+      "rating": 1,
+      "reviewsCount": 17
+    },
+    "price": {
+      "price": 788884.65,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/412x445.png/cc0000/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Coachbuilder",
+    "brand": "Buick",
+    "description": "In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy.",
+    "specification": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+    "rating": {
+      "rating": 4,
+      "reviewsCount": 1
+    },
+    "price": {
+      "price": 151728.62,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/316x464.png/5fa2dd/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 24,
+    "name": "3 Series",
+    "brand": "BMW",
+    "description": "Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+    "specification": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
+    "rating": {
+      "rating": 2,
+      "reviewsCount": 25
+    },
+    "price": {
+      "price": 287946.46,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/328x407.png/dddddd/000000",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 25,
+    "name": "XL-7",
+    "brand": "Suzuki",
+    "description": "Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",
+    "specification": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+    "rating": {
+      "rating": 2,
+      "reviewsCount": 0
+    },
+    "price": {
+      "price": 500892.11,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/457x485.png/5fa2dd/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 26,
+    "name": "S8",
+    "brand": "Audi",
+    "description": "Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio.",
+    "specification": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+    "rating": {
+      "rating": 3,
+      "reviewsCount": 4
+    },
+    "price": {
+      "price": 262678.53,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/408x341.png/cc0000/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 27,
+    "name": "CR-V",
+    "brand": "Honda",
+    "description": "In eleifend quam a odio.",
+    "specification": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+    "rating": {
+      "rating": 4,
+      "reviewsCount": 24
+    },
+    "price": {
+      "price": 194648.32,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/339x404.png/ff4444/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Uplander",
+    "brand": "Chevrolet",
+    "description": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+    "specification": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+    "rating": {
+      "rating": 4,
+      "reviewsCount": 8
+    },
+    "price": {
+      "price": 349565.51,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/441x465.png/ff4444/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 29,
+    "name": "S-Series",
+    "brand": "Saturn",
+    "description": "Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.",
+    "specification": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+    "rating": {
+      "rating": 1,
+      "reviewsCount": 6
+    },
+    "price": {
+      "price": 858954.61,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/374x455.png/5fa2dd/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Trans Sport",
+    "brand": "Pontiac",
+    "description": "In hac habitasse platea dictumst.",
+    "specification": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+    "rating": {
+      "rating": 2,
+      "reviewsCount": 9
+    },
+    "price": {
+      "price": 802528.93,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/473x352.png/cc0000/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Z4",
+    "brand": "BMW",
+    "description": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+    "specification": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+    "rating": {
+      "rating": 1,
+      "reviewsCount": 14
+    },
+    "price": {
+      "price": 204715.43,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/361x439.png/ff4444/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Lancer Evolution",
+    "brand": "Mitsubishi",
+    "description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
+    "specification": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+    "rating": {
+      "rating": 4,
+      "reviewsCount": 1
+    },
+    "price": {
+      "price": 73388.6,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/407x452.png/cc0000/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Eclipse",
+    "brand": "Mitsubishi",
+    "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet.",
+    "specification": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+    "rating": {
+      "rating": 3,
+      "reviewsCount": 3
+    },
+    "price": {
+      "price": 49123.71,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/383x323.png/cc0000/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Borrego",
+    "brand": "Kia",
+    "description": "Sed sagittis.",
+    "specification": "Sed ante. Vivamus tortor. Duis mattis egestas metus.",
+    "rating": {
+      "rating": 5,
+      "reviewsCount": 16
+    },
+    "price": {
+      "price": 407129.77,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/366x493.png/cc0000/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Axiom",
+    "brand": "Isuzu",
+    "description": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque.",
+    "specification": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+    "rating": {
+      "rating": 5,
+      "reviewsCount": 20
+    },
+    "price": {
+      "price": 393078.71,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/456x466.png/dddddd/000000",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Suburban 2500",
+    "brand": "Chevrolet",
+    "description": "Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
+    "specification": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+    "rating": {
+      "rating": 5,
+      "reviewsCount": 9
+    },
+    "price": {
+      "price": 86953.08,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/326x374.png/ff4444/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Frontier",
+    "brand": "Nissan",
+    "description": "Fusce posuere felis sed lacus.",
+    "specification": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
+    "rating": {
+      "rating": 5,
+      "reviewsCount": 22
+    },
+    "price": {
+      "price": 76546.78,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/385x450.png/cc0000/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Xterra",
+    "brand": "Nissan",
+    "description": "Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus.",
+    "specification": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "rating": {
+      "rating": 3,
+      "reviewsCount": 18
+    },
+    "price": {
+      "price": 800774.74,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/417x337.png/5fa2dd/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Sorento",
+    "brand": "Kia",
+    "description": "Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+    "specification": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+    "rating": {
+      "rating": 4,
+      "reviewsCount": 9
+    },
+    "price": {
+      "price": 35654.43,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/470x434.png/cc0000/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Spirit",
+    "brand": "Dodge",
+    "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+    "specification": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+    "rating": {
+      "rating": 3,
+      "reviewsCount": 19
+    },
+    "price": {
+      "price": 260325.84,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/481x473.png/dddddd/000000",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 41,
+    "name": "MX-3",
+    "brand": "Mazda",
+    "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius.",
+    "specification": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+    "rating": {
+      "rating": 5,
+      "reviewsCount": 19
+    },
+    "price": {
+      "price": 183051.91,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/500x335.png/ff4444/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 42,
+    "name": "900",
+    "brand": "Saab",
+    "description": "Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit.",
+    "specification": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
+    "rating": {
+      "rating": 1,
+      "reviewsCount": 20
+    },
+    "price": {
+      "price": 239673.57,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/355x380.png/dddddd/000000",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 43,
+    "name": "Grand Marquis",
+    "brand": "Mercury",
+    "description": "Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.",
+    "specification": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+    "rating": {
+      "rating": 4,
+      "reviewsCount": 1
+    },
+    "price": {
+      "price": 473073.51,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/357x363.png/5fa2dd/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 44,
+    "name": "B-Series",
+    "brand": "Mazda",
+    "description": "In blandit ultrices enim.",
+    "specification": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+    "rating": {
+      "rating": 5,
+      "reviewsCount": 17
+    },
+    "price": {
+      "price": 774042.15,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/430x385.png/dddddd/000000",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 45,
+    "name": "Sable",
+    "brand": "Mercury",
+    "description": "Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+    "specification": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+    "rating": {
+      "rating": 1,
+      "reviewsCount": 17
+    },
+    "price": {
+      "price": 888685.46,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/449x393.png/5fa2dd/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 46,
+    "name": "Boxster",
+    "brand": "Porsche",
+    "description": "Nunc purus. Phasellus in felis.",
+    "specification": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+    "rating": {
+      "rating": 3,
+      "reviewsCount": 10
+    },
+    "price": {
+      "price": 40190.03,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/448x349.png/ff4444/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 47,
+    "name": "F250",
+    "brand": "Ford",
+    "description": "Duis mattis egestas metus. Aenean fermentum.",
+    "specification": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+    "rating": {
+      "rating": 4,
+      "reviewsCount": 14
+    },
+    "price": {
+      "price": 862132.66,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/318x362.png/5fa2dd/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 48,
+    "name": "Electra",
+    "brand": "Buick",
+    "description": "Vivamus vel nulla eget eros elementum pellentesque.",
+    "specification": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
+    "rating": {
+      "rating": 3,
+      "reviewsCount": 15
+    },
+    "price": {
+      "price": 662074.19,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/325x344.png/5fa2dd/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 49,
+    "name": "CLK-Class",
+    "brand": "Mercedes-Benz",
+    "description": "Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+    "specification": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+    "rating": {
+      "rating": 5,
+      "reviewsCount": 15
+    },
+    "price": {
+      "price": 55175.51,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/475x410.png/5fa2dd/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 50,
+    "name": "SL-Class",
+    "brand": "Mercedes-Benz",
+    "description": "Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus.",
+    "specification": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+    "rating": {
+      "rating": 4,
+      "reviewsCount": 16
+    },
+    "price": {
+      "price": 243566.42,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/319x403.png/ff4444/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 51,
+    "name": "Econoline E350",
+    "brand": "Ford",
+    "description": "In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+    "specification": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+    "rating": {
+      "rating": 2,
+      "reviewsCount": 11
+    },
+    "price": {
+      "price": 740519.57,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/319x345.png/dddddd/000000",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 52,
+    "name": "Tribute",
+    "brand": "Mazda",
+    "description": "Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius.",
+    "specification": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+    "rating": {
+      "rating": 3,
+      "reviewsCount": 8
+    },
+    "price": {
+      "price": 466317.34,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/413x485.png/cc0000/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 53,
+    "name": "B-Series",
+    "brand": "Mazda",
+    "description": "Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis.",
+    "specification": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "rating": {
+      "rating": 2,
+      "reviewsCount": 14
+    },
+    "price": {
+      "price": 537258.39,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/416x469.png/ff4444/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 54,
+    "name": "F-Series",
+    "brand": "Ford",
+    "description": "Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
+    "specification": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+    "rating": {
+      "rating": 3,
+      "reviewsCount": 2
+    },
+    "price": {
+      "price": 767753.09,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/464x474.png/dddddd/000000",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 55,
+    "name": "3500",
+    "brand": "Ram",
+    "description": "Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",
+    "specification": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+    "rating": {
+      "rating": 1,
+      "reviewsCount": 16
+    },
+    "price": {
+      "price": 20718.52,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/363x388.png/5fa2dd/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 56,
+    "name": "Navajo",
+    "brand": "Mazda",
+    "description": "Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "specification": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+    "rating": {
+      "rating": 1,
+      "reviewsCount": 5
+    },
+    "price": {
+      "price": 647921.34,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/366x325.png/dddddd/000000",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 57,
+    "name": "F450",
+    "brand": "Ford",
+    "description": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.",
+    "specification": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+    "rating": {
+      "rating": 3,
+      "reviewsCount": 22
+    },
+    "price": {
+      "price": 83638,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/487x483.png/5fa2dd/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 58,
+    "name": "CX-9",
+    "brand": "Mazda",
+    "description": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.",
+    "specification": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
+    "rating": {
+      "rating": 1,
+      "reviewsCount": 18
+    },
+    "price": {
+      "price": 332988.5,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/413x333.png/ff4444/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 59,
+    "name": "LR4",
+    "brand": "Land Rover",
+    "description": "In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit.",
+    "specification": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+    "rating": {
+      "rating": 3,
+      "reviewsCount": 21
+    },
+    "price": {
+      "price": 546277.42,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/474x301.png/cc0000/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 60,
+    "name": "XC90",
+    "brand": "Volvo",
+    "description": "Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+    "specification": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
+    "rating": {
+      "rating": 5,
+      "reviewsCount": 4
+    },
+    "price": {
+      "price": 67880.62,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/353x321.png/ff4444/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 61,
+    "name": "Caprice",
+    "brand": "Chevrolet",
+    "description": "In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit.",
+    "specification": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+    "rating": {
+      "rating": 2,
+      "reviewsCount": 21
+    },
+    "price": {
+      "price": 929987,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/404x364.png/cc0000/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 62,
+    "name": "LS",
+    "brand": "Lincoln",
+    "description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
+    "specification": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
+    "rating": {
+      "rating": 4,
+      "reviewsCount": 7
+    },
+    "price": {
+      "price": 421170.7,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/449x357.png/5fa2dd/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 63,
+    "name": "599 GTB Fiorano",
+    "brand": "Ferrari",
+    "description": "Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis.",
+    "specification": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+    "rating": {
+      "rating": 1,
+      "reviewsCount": 10
+    },
+    "price": {
+      "price": 347353.93,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/377x394.png/cc0000/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 64,
+    "name": "New Yorker",
+    "brand": "Chrysler",
+    "description": "Integer ac neque.",
+    "specification": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+    "rating": {
+      "rating": 3,
+      "reviewsCount": 16
+    },
+    "price": {
+      "price": 465892.06,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/466x410.png/ff4444/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 65,
+    "name": "Navigator",
+    "brand": "Lincoln",
+    "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.",
+    "specification": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+    "rating": {
+      "rating": 1,
+      "reviewsCount": 10
+    },
+    "price": {
+      "price": 796124.3,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/375x421.png/dddddd/000000",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 66,
+    "name": "Viper",
+    "brand": "Dodge",
+    "description": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",
+    "specification": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
+    "rating": {
+      "rating": 5,
+      "reviewsCount": 23
+    },
+    "price": {
+      "price": 43112.02,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/306x475.png/cc0000/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 67,
+    "name": "E-Series",
+    "brand": "Ford",
+    "description": "Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "specification": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "rating": {
+      "rating": 1,
+      "reviewsCount": 7
+    },
+    "price": {
+      "price": 716304.04,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/353x391.png/5fa2dd/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 68,
+    "name": "Cabriolet",
+    "brand": "Audi",
+    "description": "Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.",
+    "specification": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+    "rating": {
+      "rating": 1,
+      "reviewsCount": 19
+    },
+    "price": {
+      "price": 822975.45,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/485x304.png/cc0000/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 69,
+    "name": "Savana 1500",
+    "brand": "GMC",
+    "description": "Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",
+    "specification": "Fusce consequat. Nulla nisl. Nunc nisl.",
+    "rating": {
+      "rating": 3,
+      "reviewsCount": 4
+    },
+    "price": {
+      "price": 844997.19,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/319x402.png/dddddd/000000",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 70,
+    "name": "Mazda6",
+    "brand": "Mazda",
+    "description": "Proin risus. Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",
+    "specification": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+    "rating": {
+      "rating": 1,
+      "reviewsCount": 11
+    },
+    "price": {
+      "price": 976264.97,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/492x312.png/ff4444/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 71,
+    "name": "STS",
+    "brand": "Cadillac",
+    "description": "Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus.",
+    "specification": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
+    "rating": {
+      "rating": 4,
+      "reviewsCount": 3
+    },
+    "price": {
+      "price": 484705.91,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/399x419.png/ff4444/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 72,
+    "name": "Discovery",
+    "brand": "Land Rover",
+    "description": "Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla.",
+    "specification": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+    "rating": {
+      "rating": 1,
+      "reviewsCount": 18
+    },
+    "price": {
+      "price": 505963.56,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/310x489.png/dddddd/000000",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 73,
+    "name": "Odyssey",
+    "brand": "Honda",
+    "description": "Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",
+    "specification": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",
+    "rating": {
+      "rating": 2,
+      "reviewsCount": 11
+    },
+    "price": {
+      "price": 941213.11,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/388x321.png/5fa2dd/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 74,
+    "name": "Ram Van 2500",
+    "brand": "Dodge",
+    "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy.",
+    "specification": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+    "rating": {
+      "rating": 4,
+      "reviewsCount": 15
+    },
+    "price": {
+      "price": 26167.67,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/459x491.png/5fa2dd/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 75,
+    "name": "Yukon XL 2500",
+    "brand": "GMC",
+    "description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+    "specification": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+    "rating": {
+      "rating": 5,
+      "reviewsCount": 1
+    },
+    "price": {
+      "price": 336576.31,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/425x431.png/dddddd/000000",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 76,
+    "name": "Lynx",
+    "brand": "Mercury",
+    "description": "Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+    "specification": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+    "rating": {
+      "rating": 5,
+      "reviewsCount": 20
+    },
+    "price": {
+      "price": 327211.14,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/417x470.png/dddddd/000000",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 77,
+    "name": "Durango",
+    "brand": "Dodge",
+    "description": "Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.",
+    "specification": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
+    "rating": {
+      "rating": 5,
+      "reviewsCount": 8
+    },
+    "price": {
+      "price": 805525.89,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/468x466.png/cc0000/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 78,
+    "name": "PT Cruiser",
+    "brand": "Chrysler",
+    "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",
+    "specification": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+    "rating": {
+      "rating": 5,
+      "reviewsCount": 13
+    },
+    "price": {
+      "price": 737178.38,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/392x485.png/5fa2dd/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 79,
+    "name": "R8",
+    "brand": "Audi",
+    "description": "Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero.",
+    "specification": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+    "rating": {
+      "rating": 1,
+      "reviewsCount": 3
+    },
+    "price": {
+      "price": 789199.27,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/415x342.png/dddddd/000000",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 80,
+    "name": "Passat",
+    "brand": "Volkswagen",
+    "description": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+    "specification": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "rating": {
+      "rating": 1,
+      "reviewsCount": 23
+    },
+    "price": {
+      "price": 502708.73,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/316x410.png/cc0000/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 81,
+    "name": "Sedona",
+    "brand": "Kia",
+    "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",
+    "specification": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+    "rating": {
+      "rating": 2,
+      "reviewsCount": 24
+    },
+    "price": {
+      "price": 264077.15,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/483x324.png/ff4444/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 82,
+    "name": "MX-5",
+    "brand": "Mazda",
+    "description": "Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",
+    "specification": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+    "rating": {
+      "rating": 5,
+      "reviewsCount": 18
+    },
+    "price": {
+      "price": 390651.55,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/301x354.png/ff4444/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 83,
+    "name": "Highlander",
+    "brand": "Toyota",
+    "description": "Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl.",
+    "specification": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+    "rating": {
+      "rating": 2,
+      "reviewsCount": 6
+    },
+    "price": {
+      "price": 764749.98,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/493x472.png/5fa2dd/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 84,
+    "name": "Edge",
+    "brand": "Ford",
+    "description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+    "specification": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
+    "rating": {
+      "rating": 1,
+      "reviewsCount": 6
+    },
+    "price": {
+      "price": 264443.33,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/452x342.png/cc0000/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 85,
+    "name": "Silverado",
+    "brand": "Chevrolet",
+    "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
+    "specification": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+    "rating": {
+      "rating": 2,
+      "reviewsCount": 24
+    },
+    "price": {
+      "price": 788342.66,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/372x343.png/ff4444/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 86,
+    "name": "SLK-Class",
+    "brand": "Mercedes-Benz",
+    "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla.",
+    "specification": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+    "rating": {
+      "rating": 4,
+      "reviewsCount": 9
+    },
+    "price": {
+      "price": 601136.12,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/447x336.png/dddddd/000000",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 87,
+    "name": "Safari",
+    "brand": "GMC",
+    "description": "Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.",
+    "specification": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+    "rating": {
+      "rating": 5,
+      "reviewsCount": 14
+    },
+    "price": {
+      "price": 373239.71,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/407x425.png/ff4444/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 88,
+    "name": "Range Rover",
+    "brand": "Land Rover",
+    "description": "Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.",
+    "specification": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+    "rating": {
+      "rating": 5,
+      "reviewsCount": 25
+    },
+    "price": {
+      "price": 840265.19,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/326x462.png/5fa2dd/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 89,
+    "name": "SL-Class",
+    "brand": "Mercedes-Benz",
+    "description": "Donec semper sapien a libero.",
+    "specification": "Fusce consequat. Nulla nisl. Nunc nisl.",
+    "rating": {
+      "rating": 1,
+      "reviewsCount": 22
+    },
+    "price": {
+      "price": 804054.41,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/419x352.png/ff4444/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 90,
+    "name": "Savana",
+    "brand": "GMC",
+    "description": "Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl.",
+    "specification": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+    "rating": {
+      "rating": 2,
+      "reviewsCount": 20
+    },
+    "price": {
+      "price": 877060.02,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/431x330.png/dddddd/000000",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 91,
+    "name": "Regal",
+    "brand": "Buick",
+    "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+    "specification": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+    "rating": {
+      "rating": 3,
+      "reviewsCount": 23
+    },
+    "price": {
+      "price": 879017.07,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/475x336.png/ff4444/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 92,
+    "name": "Stratus",
+    "brand": "Dodge",
+    "description": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.",
+    "specification": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+    "rating": {
+      "rating": 1,
+      "reviewsCount": 3
+    },
+    "price": {
+      "price": 415122.8,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/421x479.png/cc0000/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 93,
+    "name": "i-Series",
+    "brand": "Isuzu",
+    "description": "Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit.",
+    "specification": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+    "rating": {
+      "rating": 3,
+      "reviewsCount": 0
+    },
+    "price": {
+      "price": 783176.35,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/413x470.png/cc0000/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 94,
+    "name": "Concorde",
+    "brand": "Chrysler",
+    "description": "Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",
+    "specification": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+    "rating": {
+      "rating": 4,
+      "reviewsCount": 6
+    },
+    "price": {
+      "price": 176768.46,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/488x440.png/5fa2dd/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 95,
+    "name": "Dakota Club",
+    "brand": "Dodge",
+    "description": "Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.",
+    "specification": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+    "rating": {
+      "rating": 2,
+      "reviewsCount": 25
+    },
+    "price": {
+      "price": 745701.1,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/478x420.png/ff4444/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 96,
+    "name": "LX",
+    "brand": "Lexus",
+    "description": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.",
+    "specification": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+    "rating": {
+      "rating": 1,
+      "reviewsCount": 10
+    },
+    "price": {
+      "price": 378375.58,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/499x324.png/5fa2dd/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 97,
+    "name": "Legacy",
+    "brand": "Subaru",
+    "description": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue.",
+    "specification": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
+    "rating": {
+      "rating": 5,
+      "reviewsCount": 0
+    },
+    "price": {
+      "price": 649350,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/380x487.png/cc0000/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 98,
+    "name": "CL",
+    "brand": "Acura",
+    "description": "Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+    "specification": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+    "rating": {
+      "rating": 4,
+      "reviewsCount": 0
+    },
+    "price": {
+      "price": 545676.44,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/300x313.png/ff4444/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 99,
+    "name": "Golf",
+    "brand": "Volkswagen",
+    "description": "Vivamus tortor. Duis mattis egestas metus.",
+    "specification": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "rating": {
+      "rating": 4,
+      "reviewsCount": 11
+    },
+    "price": {
+      "price": 788610.54,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/328x493.png/5fa2dd/ffffff",
+      "altText": "alt text"
+    }
+  },
+  {
+    "id": 100,
+    "name": "Grand Cherokee",
+    "brand": "Jeep",
+    "description": "Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+    "specification": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
+    "rating": {
+      "rating": 3,
+      "reviewsCount": 9
+    },
+    "price": {
+      "price": 25346.48,
+      "discount": 0
+    },
+    "image": {
+      "imageUrl": "http://dummyimage.com/371x449.png/ff4444/ffffff",
+      "altText": "alt text"
+    }
+  }
+]
